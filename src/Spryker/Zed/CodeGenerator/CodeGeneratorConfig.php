@@ -25,7 +25,7 @@ class CodeGeneratorConfig extends AbstractBundleConfig
     /**
      * @var string
      */
-    public const YVES_CONTROLLER_PROVIDER_CLASS = 'SprykerShop\Yves\ShopApplication\Plugin\Provider\AbstractYvesControllerProvider';
+    public const YVES_CONTROLLER_PROVIDER_CLASS = 'Spryker\Yves\Router\Plugin\RouteProvider\AbstractRouteProviderPlugin';
 
     /**
      * @api
